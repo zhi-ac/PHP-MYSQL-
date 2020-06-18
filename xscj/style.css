@@ -1,0 +1,10 @@
+       a:link{  color:#F00}
+       a:visited{  color:#0f0}
+       a:hover{  color:#f0f}
+       a:active{  color:#00f}
+body{
+          background-image: url("13.jpg");
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          background-attachment: fixed;
+}
